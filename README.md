@@ -5,6 +5,7 @@ This tool monitors Taiwan stocks using the **Opening Range Breakout (ORB)** stra
 It fetches 1-minute OHLC data from Yahoo Finance and pushes notifications when a stock breaks above or below the opening range.
 
 ---
+![Sample ntfy alert](sample_alert.png)
 
 ## ⚙️ Features
 - Monitors **multiple stocks** simultaneously.  
